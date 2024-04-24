@@ -541,4 +541,3 @@ void donate_book() {
 
     fclose(booksFile);
 }
-
